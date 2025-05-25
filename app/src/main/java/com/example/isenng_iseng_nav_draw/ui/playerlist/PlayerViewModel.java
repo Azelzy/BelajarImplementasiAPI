@@ -1,4 +1,4 @@
-package com.example.isenng_iseng_nav_draw.ui.gallery;
+package com.example.isenng_iseng_nav_draw.ui.playerlist;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

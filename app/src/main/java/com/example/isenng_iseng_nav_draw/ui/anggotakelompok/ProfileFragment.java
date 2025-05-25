@@ -1,4 +1,4 @@
-package com.example.isenng_iseng_nav_draw.ui.slideshow;
+package com.example.isenng_iseng_nav_draw.ui.anggotakelompok;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

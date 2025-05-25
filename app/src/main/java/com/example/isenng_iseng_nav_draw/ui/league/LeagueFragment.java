@@ -1,4 +1,4 @@
-package com.example.isenng_iseng_nav_draw.ui.home;
+package com.example.isenng_iseng_nav_draw.ui.league;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
